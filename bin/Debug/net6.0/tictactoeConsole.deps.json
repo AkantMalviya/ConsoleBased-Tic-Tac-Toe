@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tictactoeConsole/1.0.0": {
+        "runtime": {
+          "tictactoeConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tictactoeConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
